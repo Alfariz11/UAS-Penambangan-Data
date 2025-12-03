@@ -337,13 +337,23 @@ File berisi:
 
 ## 👥 Kontributor
 
-Proyek ini dikembangkan sebagai bagian dari UAS Penambangan Data.
+Proyek ini dikembangkan sebagai bagian dari **UAS Penambangan Data** oleh mahasiswa **Teknik Informatika, Institut Teknologi Sumatera**.
 
 ### Tim Pengembang
-- **Nama Mahasiswa**: [Nama Anda]
-- **NIM**: [NIM Anda]
-- **Program Studi**: [Prodi Anda]
-- **Universitas**: [Universitas Anda]
+
+| Nama | NIM |
+|------|-----|
+| **Asavira Azzahra** | 122140067 |
+| **Rizki Alfariz Ramadhan** | 122140061 |
+| **Putri Diana Sari Rambe** | 122140052 |
+| **Sulthan Fatih Putradewa** | 122140183 |
+| **Zaky Ahmad Makarim** | 122140182 |
+
+### Informasi Akademik
+- **Program Studi**: Teknik Informatika
+- **Universitas**: Institut Teknologi Sumatera
+- **Mata Kuliah**: Penambangan Data
+- **Tahun Akademik**: 2024/2025
 
 ---
 
@@ -358,14 +368,6 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 - Terima kasih kepada dosen pengampu mata kuliah Penambangan Data
 - Referensi paper tentang metode HOUM
 - Komunitas open-source untuk library yang digunakan
-
----
-
-## 📞 Kontak
-
-Jika ada pertanyaan atau saran, silakan hubungi:
-- **Email**: [email@example.com]
-- **GitHub**: [github.com/username]
 
 ---
 
